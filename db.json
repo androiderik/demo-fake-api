@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Rap Life" },
-    { "id": 2, "title": "Feeling Festive" },
-    { "id": 3, "title": "Puro Pop" }
+    { "id": 1, "title": "Rap Life", "img": "drake_playlist.jpg" },
+    { "id": 2, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
+    { "id": 3, "title": "Puro Pop", "img": "puro_pop.webp" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

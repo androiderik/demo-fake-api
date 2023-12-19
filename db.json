@@ -29,22 +29,7 @@
     { "id": 27, "title": "Puro Pop", "img": "puro_pop.webp" },
      { "id": 28, "title": "Rap Life", "img": "drake_playlist.jpg" },
     { "id": 29, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
-    { "id": 30, "title": "Puro Pop", "img": "puro_pop.webp" },
-     { "id": 31, "title": "Rap Life", "img": "drake_playlist.jpg" },
-    { "id": 32, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
-    { "id": 33, "title": "Puro Pop", "img": "puro_pop.webp" },
-     { "id": 34, "title": "Rap Life", "img": "drake_playlist.jpg" },
-    { "id": 35, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
-    { "id": 36, "title": "Puro Pop", "img": "puro_pop.webp" },
-     { "id": 37, "title": "Rap Life", "img": "drake_playlist.jpg" },
-    { "id": 38, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
-    { "id": 39, "title": "Puro Pop", "img": "puro_pop.webp" },
-     { "id": 40, "title": "Rap Life", "img": "drake_playlist.jpg" },
-    { "id": 41, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
-    { "id": 42, "title": "Puro Pop", "img": "puro_pop.webp" },
-     { "id": 43, "title": "Rap Life", "img": "drake_playlist.jpg" },
-    { "id": 44, "title": "Feeling Festive", "img": "feeling_festive.jpeg" },
-    { "id": 45, "title": "Puro Pop", "img": "puro_pop.webp" }
+    { "id": 30, "title": "Puro Pop", "img": "puro_pop.webp" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

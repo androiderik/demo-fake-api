@@ -1,9 +1,10 @@
 {
-  "posts": [
+  "playlists": 
+   "titles": [
     { "id": 1, "title": "Rap Life", "img": "drake_playlist.jpg", "link": "/drake-playlist" },
     { "id": 2, "title": "Feeling Festive", "img": "feeling_festive.jpeg", "link": "/feeling-festive-playlist" },
     { "id": 3, "title": "Puro Pop", "img": "puro_pop.webp", "link": "/puro-pop-playlist" }
-  ],
+   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
